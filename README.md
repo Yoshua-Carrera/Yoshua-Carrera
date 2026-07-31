@@ -16,7 +16,7 @@ I'm a passionate learner with a knack for software development. Although I start
 - **Editor**: Nvim
 - **Computers**:
   - NixOS (main)
-  - Pop!\_OS (laptop)
+  - NixOS (laptop)
 - **Shell**: Ghostty + Tmux
 
 <br>
@@ -30,7 +30,7 @@ Here are some of my projects:
 | [bluechip-fares-dev](https://github.com/Yoshua-Carrera/bluechip-fares-dev) | A website for a local business in TX.                                                                                                                                                                                                                                            |
 | [Chrundle_Bot](https://github.com/Yoshua-Carrera/Chrundle_Bot)             | A Discord bot written using Discord's public API.                                                                                                                                                                                                                                |
 | [Dotfiles](https://github.com/Yoshua-Carrera/Dotfiles)                     | My personal dotfiles, which include configurations for my Pop!\_OS machine. I'm currently rewriting this using NixOS's declarative features.                                                                                                                                     |
-| [mock-api](https://github.com/Yoshua-Carrera/mock-api)                     | A generic mock API meant to serve static files through directory routing to mimic any REST or GraphQL API.                                                                                                                                                                       |
+| [mock-api](https://github.com/Yoshua-Carrera/mock-api)                     | A compilation of mock server applications, currently written in NextJs, ExpressJs, Go, Elixir (Soon)                                                                                                                                                                             |
 | [netlify-portfolio](https://github.com/Yoshua-Carrera/netlify-portfolio)   | My personal website, which is built using Angular and module federation. It is a proof of concept of how I believe a monorepo should be architected.                                                                                                                             |
 | [python-mcp-server](https://github.com/Yoshua-Carrera/python-mcp-server)   | A small proof-of-concept Python-based server for the MCP protocol. This project is in its very early stages.                                                                                                                                                                     |
 | [nixos-dotfiles](https://github.com/yoshua-Carrera/nixos-dotfiles)         | This is currently a private repository containing a Flake-structured configuration for my NixOS machine. While it is not in its early stages, it is by no means "fully-fledged" yet. I am in the process of securing secrets by adding SOPS, which is why this is still private. |
@@ -39,7 +39,6 @@ Here are some of my projects:
 
 ## 📝 What's on my TODO list at this moment?
 
-- NixOS homelab config repo
 - Go module federation CLI starter application using [Bubble Tea](https://github.com/charmbracelet/bubbletea)
 
 <br/>
